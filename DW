@@ -6,5 +6,18 @@ Datawarehousing Concepts
 	Bridges table
 	Cubes
 	star schema
-	
+
+
+	Dimension table broadly classfied into (example of a sale)
+	What got done  ? - Sale happened
+	When did it happen ? Time, date, year , month 
+	Where did it happen ? which city state branch
+	Who sold it ? personnnel Id, department, store type, channel
+
+	Airlines Table
+	What got done - Ticket sale happened
+	When did it happen ? ariline time, time of the year, season of the year
+	Who did it  ? Customer info, 
+	who sold it ? Channel, personnel,store, points program loaylty
+	Ailrines specific info - could be  a fact table Airline name, from and to, how often
 
