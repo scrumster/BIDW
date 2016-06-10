@@ -17,7 +17,7 @@ Datawarehousing Concepts
 	Airlines Table
 	What got done - Ticket sale happened
 	When did it happen ? ariline time, time of the year, season of the year
-	Who did it  ? Customer info, 
+	Who bought it  ? Customer info, membership info
 	who sold it ? Channel, personnel,store, points program loaylty
-	Ailrines specific info - could be  a fact table Airline name, from and to, how often
+	Airline specs info - Flight Name, Flight day, Partner program
 
